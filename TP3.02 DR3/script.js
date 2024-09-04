@@ -1,1 +1,3 @@
-document.getElementById('container').addEventListener('mouseover', () => alert('testando evento'));
+function testeEvento() {
+    alert('testando evento')
+}
