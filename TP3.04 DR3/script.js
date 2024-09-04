@@ -1,3 +1,3 @@
-function trocarFonte(event) {
+function trocarFonte() {
     document.body.style.fontWeight = 'bold';
 }
