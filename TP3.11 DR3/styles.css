@@ -1,0 +1,15 @@
+.container {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    margin: 0 50px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.caixinha {
+    width: 80%;
+    height: 30px;
+    margin: 5px auto;
+    border: 1px solid red;
+}
